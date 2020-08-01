@@ -1,7 +1,9 @@
 # Python Materials
 
 ## [Educational Resourses Specially for Students from GITHUB](https://education.github.com/pack)
-
+## [Python_recorded sessions](https://drive.google.com/drive/folders/1jhyQHHUcUA0MWkHUCDmRwsojKN5Us3WK?usp=sharing)
+## [Python github Link](https://github.com/AP-Skill-Development-Corporation/Python-Team2-Students-13.07.2020/)
+## [Python syllabus reference](https://github.com/LavanyaPolamarasetty/Python_syllabus/tree/master/Python_Syllabus)
 
 ## 1. [Anaconda Software Download](https://www.anaconda.com/products/individual)
 ## 2. [Markdown Syntax user Guide](https://guides.github.com/features/mastering-markdown/)
